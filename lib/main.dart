@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
               const Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
-                  Text('uzair',style: TextStyle(fontFamily: 'Pacifico',decoration: TextDecoration.lineThrough, fontSize: 30,color: Colors.red, fontWeight: FontWeight.w500),),
+                  Text('uzair sajid',style: TextStyle(fontFamily: 'Pacifico',decoration: TextDecoration.lineThrough, fontSize: 30,color: Colors.red, fontWeight: FontWeight.w500),),
                   Icon(Icons.abc_sharp),
                   Text('sajid'),
                 ],
